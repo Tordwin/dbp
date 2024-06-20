@@ -1,6 +1,6 @@
 <!-- HTML Head Module -->
 <?php include "resources/head.php";?>
-        <!-- Title --> 
+        <!-- Title -->
 		<title>Dragon Bay Bakery</title>
 		<!-- It's own stylesheet -->
 		<link href="css/index.css" rel="stylesheet">
