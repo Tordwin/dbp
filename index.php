@@ -6,13 +6,16 @@
 		<link href="css/index.css" rel="stylesheet">
 	</head>
 	<!-- Nav Bar Module -->
+	<div id="flexbox">
 	<header><?php include "resources/header.php"?></header>
 	<body>
 		<!-- Content Start -->
 		<div class="body">
+		
 		</div>
 		<!-- Content End -->
 		<!-- Footer Module -->
 		<?php include "resources/footer.php"?>
     </body>
+	</div>
 </html>
